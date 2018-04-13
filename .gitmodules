@@ -1,0 +1,3 @@
+[submodule "vendor/culture/framework"]
+	path = vendor/culture/framework
+	url = https://github.com/codetheculture/framework.git
