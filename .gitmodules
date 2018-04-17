@@ -1,6 +1,6 @@
-[submodule "vendor/culture/framework"]
-	path = vendor/culture/framework
+[submodule "packages/culture/framework"]
+	path = packages/culture/framework
 	url = https://github.com/codetheculture/framework.git
-[submodule "vendor/culture/dashboard"]
-	path = vendor/culture/dashboard
+[submodule "packages/culture/dashboard"]
+	path = packages/culture/dashboard
 	url = https://github.com/codetheculture/dashboard.git
