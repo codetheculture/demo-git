@@ -149,6 +149,7 @@ return [
          * Package Service Providers...
          */
 
+        Culture\Dashboard\DashboardThemeServiceProvider::class,
         Culture\Dashboard\DashboardServiceProvider::class,
 
         /*
