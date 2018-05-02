@@ -4,3 +4,6 @@
 [submodule "packages/culture/dashboard"]
 	path = packages/culture/dashboard
 	url = https://github.com/codetheculture/dashboard.git
+[submodule "packages/culture/dashboard-theme"]
+	path = packages/culture/dashboard-theme
+	url = https://github.com/codetheculture/dashboard-theme.git
